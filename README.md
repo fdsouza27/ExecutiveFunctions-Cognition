@@ -1,6 +1,6 @@
 ## Spatio-Cognitive Abilities and its association with Executive Functions in Young Adults - A Preliminary Study using Virtual Reality
 
-###[Poster](https://github.com/user-attachments/assets/37c418fd-47d1-40ce-9d33-c57b7242dc58)
+![Poster](https://github.com/user-attachments/assets/27deb8c8-a2f7-4500-8041-23492b994e86)
 
 ### Aim
 To understand how healthy young adults perform in VR environments with simple and complex levels of visuals.
